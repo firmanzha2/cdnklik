@@ -4,7 +4,7 @@ header h3.desc{
 }
 body {
  width: 70%; 
- margin: auto;
+ margin: 0;
 }
 a:link {
   color: gray;
