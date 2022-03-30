@@ -1,14 +1,14 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "favicon",
+    "short_name": "icon",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "https://cdn.statically.io/gh/firmanzha2/cdnklik/129982b864ac65ba37f318515ab9e29e7aca38a1/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-384x384.png",
+            "src": "https://cdn.statically.io/gh/firmanzha2/cdnklik/7ad6baa2e1885847e9f4dac7c0c484a2786f1aa4/android-chrome-384x384.png",
             "sizes": "384x384",
             "type": "image/png"
         }
